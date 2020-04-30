@@ -1,0 +1,14 @@
+{
+  "name": "the-art-of-computer-programming",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Dkdaniz/the-art-of-computer-programming",
+  "author": "dkdaniz <daniel@descentralizado.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  },
+  "dependencies": {
+    "eslint-config-airbnb-base": "^14.1.0"
+  }
+}
